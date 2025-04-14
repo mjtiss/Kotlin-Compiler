@@ -1,0 +1,5 @@
+fun main() {
+    val number = readln()
+    var doubled = number * 2
+    print(doubled)
+}
