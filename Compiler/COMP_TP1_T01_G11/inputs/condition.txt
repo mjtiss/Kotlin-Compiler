@@ -1,0 +1,9 @@
+fun main() {
+    val x = 5
+    val y = 10
+    if (x < y) {
+        print(y)
+    } else {
+        print(x)
+    }
+}

@@ -1,0 +1,5 @@
+fun main(){
+    var x = true
+    var y = ! x
+}
+
